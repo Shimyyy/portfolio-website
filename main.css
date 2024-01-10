@@ -543,6 +543,8 @@ footer a {
     gap: 0;
   }
   .project-item {
+    
+   
     flex-direction: column;
     align-items: flex-start;
     padding: 2rem;
@@ -550,6 +552,7 @@ footer a {
   }
   .project-img {
     width: 20rem;
+    
   }
 }
 
